@@ -214,9 +214,3 @@ If the outcome is “HANG” and server is “NO-SERVER”, the penalty is appli
 Please find below the summary of payments done to CallIn PLC by RBS for the services rendered in the month of February 1999:
 
 Verify if the payments are correctly calculated and during the course of case study, answer the given Multiple-Choice Questions.
-
-HINT: To solve the case study, you will have to create 3 columns:
-
-vru\_time: vru\_exit – vru\_entry
-q\_time: q\_start-q\_exit
-ser\_time: ser\_start-ser\_exit
